@@ -1,61 +1,57 @@
-# Excel FNP Dashboard
+# 📊 Sales Analysis Dashboard – Excel Project  
 
-An interactive Excel dashboard using Pivot Tables, Charts, Slicers, and Power Query to analyze FNP sales. Tracks KPIs like revenue, orders, delivery time, and customer spend. Visualizes trends by occasion, category, month, and city to identify top products and optimize business performance.
-
-# FNP Sales Analysis Dashboard
-
-An interactive Excel dashboard for analyzing FNP sales performance, built with Pivot Tables, Pivot Charts, Slicers, and Power Query.  
-This tool provides actionable insights into revenue trends, product performance, and customer behavior.
+## 📌 Overview  
+This project is an **end-to-end Sales Analysis Dashboard** built in **Microsoft Excel**, leveraging **Power Query**, **Power Pivot**, and interactive visualization features. It transforms raw sales data into actionable insights through data cleaning, modeling, and dynamic reporting.  
 
 ---
 
-## Features
+## 📜 Project Description  
+The Sales Analysis Dashboard provides an interactive and comprehensive view of sales performance. It integrates Excel’s advanced analytics stack to perform **ETL (Extract, Transform, Load)**, data modeling, and visualization in one file.  
 
-### Dynamic KPIs
-- Total Orders
-- Total Revenue
-- Average Order–Delivery Time
-- Average Customer Spend
+**Power Query Editor** is used to import and clean raw datasets (Orders, Customers, Products), merge them into a unified table, handle missing values, and create calculated columns such as *Order Delivery Time* and *Average Customer Spend*.  
 
-### Interactive Filters
-- Occasion  
-- Order Date  
-- Delivery Date  
+**Power Pivot** establishes relationships between tables and uses **DAX (Data Analysis Expressions)** to calculate KPIs:  
+- **Total Orders**  
+- **Total Revenue**  
+- **Average Delivery Time**  
+- **Average Customer Spend**  
+- **Top Products by Revenue**  
 
-### Visual Insights
-- Revenue by Occasion  
-- Revenue by Category  
-- Revenue by Hour  
-- Revenue by Month  
-- Top 5 Products by Revenue  
-- Top 10 Cities by Orders  
+The dashboard features **KPI cards**, **bar charts**, **line charts**, and **trendlines** for identifying performance patterns. Slicers and timelines allow instant filtering by Occasion, Category, Order Date, and Delivery Date, enhancing interactivity.  
 
 ---
 
-## Tools and Techniques
-- Excel Pivot Tables and Pivot Charts – for data visualization  
-- Power Query – for data cleaning and transformation  
-- Slicers and Timeline Filters – for dashboard interactivity  
+## 🚀 Features  
+- **ETL Automation** with Power Query  
+- **Data Modeling** using Power Pivot  
+- **Dynamic KPIs** for quick insights  
+- **Interactive Filters** (Slicers & Timelines)  
+- **PivotCharts & PivotTables** for detailed analysis  
+- **Trend Analysis** with visual indicators  
 
 ---
 
-## How to Use
-1. Download the Excel file from this repository.  
-2. Open in Microsoft Excel (2016 or later recommended).  
-3. Use the slicers and filters to explore the data interactively.  
+## 📊 Dashboard Insights  
+- **Revenue by Occasion** – Tracks seasonal/event performance  
+- **Revenue by Category** – Compares product categories like Cakes, Gifts, and Mugs  
+- **Revenue by Month** – Identifies seasonal demand trends  
+- **Top 5 Products by Revenue** – Highlights high-performing SKUs  
+- **Revenue by Hour** – Shows peak order times  
+- **Orders by City** – Evaluates regional sales  
 
 ---
 
-## Purpose
-This dashboard is designed for sales teams, analysts, and managers to:
-- Track sales performance in real-time  
-- Identify top-selling products and peak sales periods  
-- Understand customer purchase patterns  
-- Make data-driven business decisions
+## 🛠 Tools & Technologies Used  
+- Microsoft Excel (Power Query, Power Pivot, PivotTables, PivotCharts)  
+- DAX Functions for KPIs  
+- Data Visualization best practices  
 
 ---
 
+## 📷 Screenshot  
+![Dashboard Preview](dashboard-screenshot.png)  
+
 ---
 
-## License
-This project is licensed under the MIT License.
+
+
