@@ -54,5 +54,16 @@ The dashboard features **KPI cards**, **bar charts**, **line charts**, and **tre
 
 ---
 
+## License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
 
+You may:
+- View, download, and adapt this work for personal or educational purposes.
+- Share the work with credit to the original author.
+
+You may *not*:
+- Use this work for commercial purposes.
+- Redistribute without attribution.
+
+Copyright © 2025 Ayush Sawant
 
