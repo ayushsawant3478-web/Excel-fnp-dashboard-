@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard – Excel Project  
+# 📊 FNP Sales Analysis Dashboard – Excel Project  
 
 ## 📌 Overview  
 This project is an **end-to-end Sales Analysis Dashboard** built in **Microsoft Excel**, leveraging **Power Query**, **Power Pivot**, and interactive visualization features. It transforms raw sales data into actionable insights through data cleaning, modeling, and dynamic reporting.  
@@ -49,7 +49,8 @@ The dashboard features **KPI cards**, **bar charts**, **line charts**, and **tre
 ---
 
 ## 📷 Screenshot  
-![Dashboard Preview](dashboard-screenshot.png)  
+![Dashboard Preview](FNP%20Dashboard.jpg)
+
 
 ---
 
